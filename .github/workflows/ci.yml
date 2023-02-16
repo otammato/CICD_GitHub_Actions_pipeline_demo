@@ -56,6 +56,6 @@ jobs:
       with:
         context: "{{defaultContext}}"
         push: true
-        tags: user/app:latest
+        tags: usr/app:latest
  
   
