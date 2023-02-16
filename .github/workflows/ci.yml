@@ -36,7 +36,7 @@ jobs:
         arguments: build
         
     - name: Build and Push Docker image
-      uses: docker/build-push-action@v4
+      uses: mr-smithers-excellent/docker-build-push@v4
       with:
         image: montcarotte/cicd_demo_github_actions
         registry: docker.io
