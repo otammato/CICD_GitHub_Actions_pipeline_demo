@@ -54,7 +54,8 @@ jobs:
       name: Build and push
       uses: docker/build-push-action@v4
       with:
-        context: "{{defaultContext}}"
+        context: "."
+        file: ./Dockerfile
         push: true
         tags: usr/app:latest
  
