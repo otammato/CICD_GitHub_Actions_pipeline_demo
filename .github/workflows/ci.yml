@@ -45,8 +45,8 @@ jobs:
       name: Build and push
       uses: docker/build-push-action@v4
       with:
-        context: .
-        load: true
+        context: ..
+        push: true
         tags: app:latest
  
   
