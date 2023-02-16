@@ -19,10 +19,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: ${{matrix.os}}
-    strategy: 
-      matrix:
-        os: [ubuntu-latest, windows-latest, macOS-latest]
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
@@ -37,5 +34,13 @@ jobs:
       uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
       with:
         arguments: build
+        
+    - name: Build and Push Docker image
+      uses: docker/build-push-action@v4
+      with:
+        image: montcarotte/cicd_demo_github_actions
+        registry: docker.io
+        username: ${{ secrets.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
         
   
