@@ -1,6 +1,6 @@
 # GitHub_Actions_pipeline_demo
 
-[ CI/CD Docker Java app ] Create a CI/CD pipeline with GitHub Actions buills the app, then built and push the Docker image
+[ CI/CD Docker Java ] Create a CI/CD pipeline with GitHub Actions buills the app, then built and push the Docker image
 
 <br><br>
 
