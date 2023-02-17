@@ -56,7 +56,7 @@ jobs:
 ```
 
 <br><br>
-### This is how to setup GitHub and store the DockerHub access token:
+### This is how to set up GitHub and store the DockerHub access token:
 <br><br>
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 10 56 11" src="https://user-images.githubusercontent.com/104728608/219629685-b787134e-16c5-4930-9ce0-c07f46877209.png">
