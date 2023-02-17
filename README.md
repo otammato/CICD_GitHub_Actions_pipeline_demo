@@ -5,7 +5,7 @@
 <br><br>
 
 ## Automatically build app and push the image to the Docker Hub:
-### This is YAML file for automation:
+### This is a YAML file for automation:
 ```
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
