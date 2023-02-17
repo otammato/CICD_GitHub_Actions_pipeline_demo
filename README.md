@@ -78,13 +78,11 @@ jobs:
 </p>
 <br><br>
 
-<br><br>
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 12 24" src="https://user-images.githubusercontent.com/104728608/219634657-be5e0fa9-d96e-4adf-8a0b-f2134433d5bd.png">
 </p>
 <br><br>
 
-<br><br>
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 16 03" src="https://user-images.githubusercontent.com/104728608/219636356-2c8f9fa4-a210-43ba-9aa5-cbad333fa713.png">
 </p>
