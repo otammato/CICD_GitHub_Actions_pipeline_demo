@@ -70,6 +70,20 @@ jobs:
 </p>
 <br><br>
 
+<br><br>
+<p align="center" >
+  <img width="700" alt="Screenshot 2023-02-17 at 11 12 24" src="https://user-images.githubusercontent.com/104728608/219634657-be5e0fa9-d96e-4adf-8a0b-f2134433d5bd.png">
+</p>
+<br><br>
+
+<br><br>
+<p align="center" >
+  <img width="700" alt="Screenshot 2023-02-17 at 11 11 10" src="https://user-images.githubusercontent.com/104728608/219634999-a8da3b1b-6132-4347-b05e-7ba146ee678a.png">
+</p>
+<br><br>
+
+
+
 
 <br><br>
 ## or Manually build app and push the image to the Docker Hub:
