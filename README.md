@@ -1,5 +1,8 @@
 # GitHub_Actions_pipeline_demo
 
+[ CI/CD ] Create a CI/CD pipeline with GitHub Actions buills the app, then built and push the Docker image
+
+<br><br>
 
 ## Automatically build app and push the image to the Docker Hub
 
@@ -54,7 +57,7 @@ jobs:
 
 <br><br>
 <p align="center" >
-  <img width="700" alt="Screenshot 2023-02-17 at 10 40 20" src="https://user-images.githubusercontent.com/104728608/219622042-25672cfc-9af6-4321-8040-e49edc76e109.png">
+  <img width="700" alt="Screenshot 2023-02-17 at 10 40 20" src="https://user-images.githubusercontent.com/104728608/219625540-382f454c-d371-4b72-bba3-a80291f3f9af.png">
 </p>
 <br><br>
 
