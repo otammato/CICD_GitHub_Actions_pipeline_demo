@@ -60,7 +60,7 @@ jobs:
 
 
 <br><br>
-## Manually build and push the project
+## or Manually build and push the project
 
 ##### build the project
 ```
