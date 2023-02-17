@@ -5,7 +5,7 @@
 <br><br>
 
 ## Automatically build app and push the image to the Docker Hub:
-
+This is YAML file for automation:
 ```
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
@@ -55,8 +55,8 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
 
+<br><br>
 ### This is how to setup GitHub and store the DockerHub access token:
-
 <br><br>
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 10 56 11" src="https://user-images.githubusercontent.com/104728608/219629685-b787134e-16c5-4930-9ce0-c07f46877209.png">
