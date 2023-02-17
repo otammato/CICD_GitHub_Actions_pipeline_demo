@@ -60,7 +60,7 @@ jobs:
 
 
 <br><br>
-## or Manually build and push the project
+## or Manually build app and push the image to the Docker Hub
 
 ##### build the project
 ```
