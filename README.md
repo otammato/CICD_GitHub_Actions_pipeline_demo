@@ -1,7 +1,7 @@
 # GitHub_Actions_pipeline_demo
 
 
-## Automatically build and push the app to the Docker Hub
+## Automatically build app and push the image to the Docker Hub
 
 ```
 # This workflow uses actions that are not certified by GitHub.
