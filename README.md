@@ -72,7 +72,7 @@ jobs:
 
 
 
-### Demonstration of how the pipepline works and its result on the DockerHub:
+### Demonstration of how the pipepline works on any push and its result on the DockerHub:
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 11 10" src="https://user-images.githubusercontent.com/104728608/219634999-a8da3b1b-6132-4347-b05e-7ba146ee678a.png">
 </p>
