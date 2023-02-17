@@ -4,7 +4,7 @@
 
 <br><br>
 
-## Automatically build app and push the image to the Docker Hub
+## Automatically build app and push the image to the Docker Hub:
 
 ```
 # This workflow uses actions that are not certified by GitHub.
@@ -55,6 +55,7 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
 
+### This is how to setup GitHub and store the DockerHub access token:
 
 <br><br>
 <p align="center" >
@@ -71,7 +72,7 @@ jobs:
 
 
 <br><br>
-## or Manually build app and push the image to the Docker Hub
+## or Manually build app and push the image to the Docker Hub:
 
 ##### build the project
 ```
