@@ -5,7 +5,7 @@
 <br><br>
 
 ## Automatically build app and push the image to the Docker Hub:
-### This is a YAML file for automation:
+### The YAML file for automation:
 ```
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
@@ -72,7 +72,7 @@ jobs:
 
 
 
-### This is how the pipepline works and the result on the DockerHub:
+### Demonstration of how the pipepline works and the result on the DockerHub:
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 11 10" src="https://user-images.githubusercontent.com/104728608/219634999-a8da3b1b-6132-4347-b05e-7ba146ee678a.png">
 </p>
@@ -93,7 +93,7 @@ jobs:
 
 
 <br><br>
-## This is how to manually build app and push the image to the Docker Hub:
+## This is how to manually build the app and push the image to Docker Hub:
 
 ##### build the project
 ```
