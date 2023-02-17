@@ -54,7 +54,9 @@ jobs:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
+<br><br>
 
+### Configure the GitHub actions and modify the YAML scenario to build and push Docker images (paste the scenario from the above step)
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 46 07" src="https://user-images.githubusercontent.com/104728608/219647257-9e959e8e-ce40-4773-a6c1-17f2c83197cb.png">
 </p>
