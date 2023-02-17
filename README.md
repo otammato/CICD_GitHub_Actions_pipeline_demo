@@ -93,7 +93,7 @@ jobs:
 
 
 <br><br>
-## or Manually build app and push the image to the Docker Hub:
+## This is how to manually build app and push the image to the Docker Hub:
 
 ##### build the project
 ```
