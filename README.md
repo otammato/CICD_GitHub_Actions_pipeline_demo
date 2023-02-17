@@ -55,6 +55,12 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
 
+<p align="center" >
+  <img width="700" alt="Screenshot 2023-02-17 at 11 46 07" src="https://user-images.githubusercontent.com/104728608/219646463-b4bd83b5-9def-4e26-8700-9bfa47d55063.png">
+</p>
+<br><br>
+
+
 <br><br>
 ### This is how to set up and store the DockerHub access token on GitHub:
 
@@ -72,7 +78,7 @@ jobs:
 
 
 
-### Demonstration of how the pipepline works on any push and its result on the DockerHub:
+### Demonstration of how the pipepline works on any push on "main" or a merge and its result on the DockerHub:
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 11 10" src="https://user-images.githubusercontent.com/104728608/219634999-a8da3b1b-6132-4347-b05e-7ba146ee678a.png">
 </p>
