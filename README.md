@@ -50,6 +50,13 @@ jobs:
 ```
 
 <br><br>
+<p align="center" >
+  <img width="700" alt="Screenshot 2023-02-17 at 10 40 20" src="https://user-images.githubusercontent.com/104728608/219622042-25672cfc-9af6-4321-8040-e49edc76e109.png">
+</p>
+<br><br>
+
+
+<br><br>
 ## Manually build and push the project
 
 ##### build the project
