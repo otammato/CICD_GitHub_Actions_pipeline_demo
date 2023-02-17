@@ -1,4 +1,4 @@
-#### Automatically build and push the app to the Docker Hub
+## Automatically build and push the app to the Docker Hub
 
 ```
 # This workflow uses actions that are not certified by GitHub.
@@ -49,7 +49,8 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
 
-#### Manually build and push the project
+<br><br>
+## Manually build and push the project
 
 ##### build the project
 ```
