@@ -14,7 +14,7 @@
 # This workflow will build a Java project with Gradle and cache/restore any dependencies to improve the workflow execution time
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle
 
-# After being built, the Docker image is built and pushed to the Docker hub
+# After the app being built, the Docker image is built and pushed to the Docker hub
 
 name: Java CI with Gradle
 
