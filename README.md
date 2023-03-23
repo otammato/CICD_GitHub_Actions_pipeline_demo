@@ -4,6 +4,10 @@
 
 <br><br>
 
+<img width="850" alt="Screenshot 2023-03-23 at 17 55 29" src="https://user-images.githubusercontent.com/104728608/227302531-3c5654d9-25a5-43bb-8497-b1ffe0a46fb0.png">
+
+<br><br>
+
 ## Automatically build the app and push the image to the Docker Hub:
 ### The YAML file for automation:
 ```
