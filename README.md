@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img width="686" alt="Screenshot 2023-03-23 at 18 08 45" src="https://user-images.githubusercontent.com/104728608/227305808-bd5073bf-c31f-4537-bc48-d0d516bd0552.png">
+<img width="700" alt="Screenshot 2023-03-23 at 18 08 45" src="https://user-images.githubusercontent.com/104728608/227305808-bd5073bf-c31f-4537-bc48-d0d516bd0552.png">
 
 <br><br>
 
