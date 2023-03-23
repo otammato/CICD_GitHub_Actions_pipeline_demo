@@ -58,7 +58,7 @@ jobs:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 ```
-<br><br>
+
 
 This is a GitHub Actions workflow file for building and pushing a Docker image of a Java application using Gradle as the build tool. Here's a breakdown of what the different parts of the file do:
 
@@ -71,6 +71,8 @@ This is a GitHub Actions workflow file for building and pushing a Docker image o
 - The chmod step grants execute permission for the Gradle wrapper script.
 - The gradle-build-action step uses the Gradle build tool to build the application, with the build argument.
 - The docker-build-push step uses a third-party action to build a Docker image from the application and push it to Docker Hub. The image parameter specifies the name and tag of the image, while the registry, username, and password parameters specify the Docker registry and authentication credentials to use for pushing the image.
+
+<br><br>
 
 ### Configure the GitHub actions and modify the YAML to build and push Docker images (paste the scenario from the above step)
 <p align="center" >
