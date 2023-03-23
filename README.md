@@ -60,6 +60,18 @@ jobs:
 ```
 <br><br>
 
+This is a GitHub Actions workflow file for building and pushing a Docker image of a Java application using Gradle as the build tool. Here's a breakdown of what the different parts of the file do:
+
+- The on section specifies when the workflow should be triggered - in this case, it will run when there is a push to the main branch or a pull request - targeting the main branch.
+- The permissions section specifies that the workflow only needs to read the contents of the repository.
+- The jobs section specifies that there is one job called build, which will run on the latest version of Ubuntu.
+- The steps section contains the individual steps that the job will run:
+- The checkout step checks out the repository code onto the runner machine.
+- The setup-java step sets up JDK 11 (the specified version of Java) using the Temurin distribution.
+- The chmod step grants execute permission for the Gradle wrapper script.
+- The gradle-build-action step uses the Gradle build tool to build the application, with the build argument.
+- The docker-build-push step uses a third-party action to build a Docker image from the application and push it to Docker Hub. The image parameter specifies the name and tag of the image, while the registry, username, and password parameters specify the Docker registry and authentication credentials to use for pushing the image.
+
 ### Configure the GitHub actions and modify the YAML to build and push Docker images (paste the scenario from the above step)
 <p align="center" >
   <img width="700" alt="Screenshot 2023-02-17 at 11 46 07" src="https://user-images.githubusercontent.com/104728608/219647257-9e959e8e-ce40-4773-a6c1-17f2c83197cb.png">
